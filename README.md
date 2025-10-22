@@ -25,11 +25,4 @@ It allows users to add, view, and manage expenses — with data saved locally in
 1. Clone the repository:
    ```bash
    Expense-Tracker-Python/
-  📂 Folder Structure 
-│
-├── expense_tracker.py
-├── expenses.csv (auto-created)
-└── README.md
-
-   git clone https://github.com/<your-username>/Expense-Tracker-Python.git
-   cd Expense-Tracker-Python
+ 
