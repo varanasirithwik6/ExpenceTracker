@@ -25,6 +25,7 @@ It allows users to add, view, and manage expenses — with data saved locally in
 1. Clone the repository:
    ```bash
    Expense-Tracker-Python/
+  📂 Folder Structure 
 │
 ├── expense_tracker.py
 ├── expenses.csv (auto-created)
